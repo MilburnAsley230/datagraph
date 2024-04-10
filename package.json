@@ -1,6 +1,6 @@
 {
   "name": "datagraph",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -46,6 +46,12 @@
     "cyto-extractor": "^1.0.0",
     "cyto-debugger": "^1.0.0",
     "cyto-notifier": "^1.0.0",
-    "cyto-reporter": "^1.0.0"
+    "cyto-reporter": "^1.0.0",
+    "cyto-frontend": "^1.0.0",
+    "cyto-middleware": "^1.0.0",
+    "cyto-analytics": "^1.0.0",
+    "cyto-plugin": "^1.0.0",
+    "cyto-inspector": "^1.0.0",
+    "cyto-mapper": "^1.0.0"
   }
 }
