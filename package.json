@@ -1,0 +1,44 @@
+{
+  "name": "datagraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilburnAsley230/datagraph.git"
+  },
+  "author": "MilburnAsley230",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilburnAsley230/datagraph/issues"
+  },
+  "homepage": "https://github.com/MilburnAsley230/datagraph#readme",
+  "dependencies": {
+    "@yindongfang/keybinding": "^1.0.1",
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "is-array": "^1.0.1",
+    "is-string": "^1.0.7",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0",
+    "qs": "^6.12.0",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0",
+    "cyto-visualizer": "^1.0.0",
+    "cyto-module": "^1.0.0",
+    "cyto-adapter": "^1.0.0",
+    "cyto-generator": "^1.0.0",
+    "cyto-designer": "^1.0.0",
+    "cyto-scraper": "^1.0.0",
+    "cyto-builder": "^1.0.0",
+    "cyto-simulator": "^1.0.0",
+    "cyto-crawler": "^1.0.0"
+  }
+}
